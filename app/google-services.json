@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "612998860881",
+    "firebase_url": "https://cours5nosql.firebaseio.com",
+    "project_id": "cours5nosql",
+    "storage_bucket": "cours5nosql.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612998860881:android:af728318cae6d55a",
+        "android_client_info": {
+          "package_name": "com.example.a533.cours5nosql"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612998860881-1r1maa42fks3udpq5fbe7v4312hbf5jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a533.cours5nosql",
+            "certificate_hash": "5469e36528087c8b25fd46cf8f0bc1fbca8c39f0"
+          }
+        },
+        {
+          "client_id": "612998860881-l378bgsumipd6tpmgd7o2timhnlq1mud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5SFHZVhKvlRZJL6-jaHxX47jKWd0rLl0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612998860881-l378bgsumipd6tpmgd7o2timhnlq1mud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
